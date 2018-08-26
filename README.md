@@ -4,7 +4,7 @@
 
 For **editing** go to the Netlify CMS instance at:
 
-  - **[`https://confident-hugle-ee754d.netlify.com/admin/#/collections/post`](https://confident-hugle-ee754d.netlify.com/admin/#/collections/post)**
+  - **[✨`https://confident-hugle-ee754d.netlify.com/admin/#/collections/post`](https://confident-hugle-ee754d.netlify.com/admin/#/collections/post)**
   - Your account is connected to your email address used with the Netlify auth and a password chosen via email response link
 
 Source code is now stored in the `src` repo in the **jswimp** GitHub account:
