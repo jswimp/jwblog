@@ -1,6 +1,8 @@
 # jwblog - OLD
 
-**THIS BLOG IS DEPRECATED AS OF AUGUST 26 2018 - PLEASE USE THE `src` REPO INSTEAD!**
+**THIS BLOG IS DEPRECATED AS OF AUGUST 26 2018 - PLEASE USE THE `src` REPO INSTEAD:**
+
+✨⏩ **`https://github.com/jswimp/src`** ⏪✨
 
 # Gatsby + Netlify CMS Starter
 
