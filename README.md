@@ -1,8 +1,16 @@
 # jwblog - OLD
 
-**THIS BLOG IS DEPRECATED AS OF AUGUST 26 2018 - PLEASE USE THE `src` REPO INSTEAD:**
+**THIS BLOG IS DEPRECATED AS OF AUGUST 26 2018**
 
-✨⏩ **`https://github.com/jswimp/src`** ⏪✨
+For **editing**:
+
+  - Go to https://confident-hugle-ee754d.netlify.com/admin/#/collections/post 
+  - Your account is connected to your email address used with the Netlify auth and a password chosen via email response link
+
+Source code is now stored in the `src` repo in the **jswimp** GitHub account:
+
+  - **`[https://github.com/jswimp/src](https://github.com/jswimp/src)`**
+ 
 
 # Gatsby + Netlify CMS Starter
 
