@@ -9,7 +9,7 @@ For **editing**:
 
 Source code is now stored in the `src` repo in the **jswimp** GitHub account:
 
-  - **`[https://github.com/jswimp/src](https://github.com/jswimp/src)`**
+  - **[`https://github.com/jswimp/src`](https://github.com/jswimp/src)**
  
 
 # Gatsby + Netlify CMS Starter
